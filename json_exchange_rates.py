@@ -32,6 +32,7 @@ class Exchange_Rates:
             for data in rates:
                 if data == "rates":
                     print(rates["rates"])
+                    
 
 
 """
