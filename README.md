@@ -89,4 +89,9 @@ when we request an error would be raised
 
 !["API Picture] --- show pic
 
+```bash
+CRUD stands for "Create, Read, Update and Delete.
+These are the four basic database operations.
+Many HTTP services model CRUD operations.
 
+```
