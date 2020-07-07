@@ -69,3 +69,15 @@ had just made 'new_json_file'
 Using the 'load' method allowed us to read over the file
 """
 ```
+
+# json and classes exercise
+```python
+"""
+import json
+create a class named Exchange_Rates with attributes
+fetch the data from exchange_rates.json
+display the data and the type of data
+have a method which returns the exchange rates
+display exchange rates with specific currencies
+"""
+```
