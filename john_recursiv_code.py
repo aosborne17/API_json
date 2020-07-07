@@ -5,6 +5,7 @@ post_codes_req = requests.get("https://api.postcodes.io/postcodes/se120nb")
 
 json_data = post_codes_req.json()
 
+
 class JSONReader:
     def get_all_values(self, nested_dictionary): # This is a method
         for key, value in nested_dictionary.items():  # iterate through the key, value pairs in this dictionary
