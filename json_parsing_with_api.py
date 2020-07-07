@@ -79,6 +79,7 @@ def dict_1():
 print(dict_1())
 
 
+
 # def dict_2():
 #
 #     for key, value in json_data.items():
