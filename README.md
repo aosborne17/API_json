@@ -63,7 +63,7 @@ with open("new_json_file.json") as jsonfile:  #decoding
 
 
 """
-In the above block of code we have decoded the file that we 
+In the above block of code we have decoded/read the file that we 
 had just made 'new_json_file'
 
 Using the 'load' method allowed us to read over the file
