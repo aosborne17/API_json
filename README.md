@@ -81,3 +81,12 @@ have a method which returns the exchange rates
 display exchange rates with specific currencies
 """
 ```
+API calls go to web browsers and request for certain information\
+the web browsers have their own API where they can interpret our request\
+and send the data back to the premise data if it allows.\
+Browsers would have some data that they do not want to allow access to and\
+when we request an error would be raised
+
+!["API Picture] --- show pic
+
+
